@@ -1,1 +1,1 @@
-print("ini adalah halaman fitur a dari branch feature-a")
+print("ini adalah halaman fitur a dari branch feature-a dan feature-c")
